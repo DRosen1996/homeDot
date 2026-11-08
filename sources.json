@@ -4,34 +4,65 @@
     "source_filename": "飞利浦6300智能锁用户使用手册-W.pdf",
     "pdf_pages": 27,
     "source_sha256": "6d2cfceb15dbd3068cee66c7b19838838f14e79c7f88d7e9e8c297379b7b4db0",
-    "text_path": "text/door-lock.md"
+    "text_path": "text/door-lock.md",
+    "backup_path": "originals/door-lock.pdf",
+    "backup_format": "PDF",
+    "backup_sha256": "6d2cfceb15dbd3068cee66c7b19838838f14e79c7f88d7e9e8c297379b7b4db0",
+    "review_path": "review/door-lock.md",
+    "review_status": "Visible text compared page by page; limitations recorded in review report",
+    "review_date": "2026-11-08"
   },
   {
     "document": "海尔 EHGS100FMATE81U1 烘干机",
     "source_filename": "EHGS100FMATE81U1 使用说明书 - 海尔 _ Manualzz.pdf",
     "pdf_pages": 15,
     "source_sha256": "ee2bf5608e5af3c435766c1ebc1b1e01eb86a1ed7aa249f102fe3c13bdd83377",
-    "text_path": "text/dryer.md"
+    "text_path": "text/dryer.md",
+    "backup_path": "originals/dryer.pdf",
+    "backup_format": "PDF",
+    "backup_sha256": "ee2bf5608e5af3c435766c1ebc1b1e01eb86a1ed7aa249f102fe3c13bdd83377",
+    "review_path": "review/dryer.md",
+    "review_status": "Visible text compared page by page; limitations recorded in review report",
+    "review_date": "2026-11-08"
   },
   {
     "document": "大金 BRC1H611 空调面板遥控器",
     "source_filename": "【空调面板遥控器】BRC1H611使用说明.pdf",
     "pdf_pages": 2,
     "source_sha256": "e8b4a977b08a5352a18359c00a0d5788a88ad7b44af8602e68ccebed3cf53a4e",
-    "text_path": "text/air-controller.md"
+    "text_path": "text/air-controller.md",
+    "backup_path": "originals/air-controller.pdf",
+    "backup_format": "PDF",
+    "backup_sha256": "e8b4a977b08a5352a18359c00a0d5788a88ad7b44af8602e68ccebed3cf53a4e",
+    "review_path": "review/air-controller.md",
+    "review_status": "Visible text compared page by page; limitations recorded in review report",
+    "review_date": "2026-11-08"
   },
   {
     "document": "容声冰箱",
     "source_filename": "容声冰箱使用说明书.pdf",
     "pdf_pages": 47,
     "source_sha256": "7877c39e450ae04f6a038bcc2acb034a6c70a2b0fcd7ccda55bfef175faf3497",
-    "text_path": "text/refrigerator.md"
+    "text_path": "text/refrigerator.md",
+    "backup_path": "originals/refrigerator-original.zip",
+    "backup_format": "ZIP (unmodified original PDF inside)",
+    "archive_member": "容声冰箱使用说明书.pdf",
+    "backup_sha256": "6ba120ddb35c3f9f14f1b2a21ebca94f36913defeab0166753d3c6306423ca44",
+    "review_path": "review/refrigerator.md",
+    "review_status": "Visible text compared page by page; limitations recorded in review report",
+    "review_date": "2026-11-08"
   },
   {
     "document": "海尔 EG100MATE81SU1 洗衣机",
     "source_filename": "海尔 EG100MATE81SU1 洗衣机说明书：AI 聊天与PDF下载 _ Manualzz.pdf",
     "pdf_pages": 45,
     "source_sha256": "6e6390b280f131ad9cd4260ec2940e812ca581f6b4b0c5a134ad5452f5411dcc",
-    "text_path": "text/washer.md"
+    "text_path": "text/washer.md",
+    "backup_path": "originals/washer.pdf",
+    "backup_format": "PDF",
+    "backup_sha256": "6e6390b280f131ad9cd4260ec2940e812ca581f6b4b0c5a134ad5452f5411dcc",
+    "review_path": "review/washer.md",
+    "review_status": "Visible text compared page by page; limitations recorded in review report",
+    "review_date": "2026-11-08"
   }
 ]
